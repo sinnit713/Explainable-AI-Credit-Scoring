@@ -1,0 +1,4 @@
+"Model","AUC","Lower","Upper"
+"Logistic Regression",0.8045,0.7912,0.8173
+"Random Forest",0.8029,0.7897,0.8164
+"XGBoost",0.8058,0.7927,0.8185

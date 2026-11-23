@@ -1,0 +1,4 @@
+"Variant","LR","RF","XGB","RF_minus_LR","XGB_minus_LR"
+"Baseline",0.8048,0.8029,0.8051,-0.0019,3e-04
+"Keep no-record rows",0.8039,0.8008,0.8046,-0.0031,7e-04
+"Sentinels left raw",0.7953,0.8013,0.8049,0.006,0.0096
