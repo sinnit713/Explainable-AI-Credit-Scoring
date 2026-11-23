@@ -10,7 +10,7 @@ This directory contains the R scripts used in the credit-risk modelling and expl
 | `02_models_and_metrics.R` | Logistic Regression, Random Forest and XGBoost modelling, tuning and performance evaluation |
 | `03_robustness.R` | Bootstrap-based AUC equivalence testing, repeated partitions and preprocessing sensitivity analysis |
 | `04_shap_analysis.R` | SHAP-based global and local explanations, feature agreement and explanation stability |
-| `5_threshold_analysis.R` | Approval-rate simulations and comparison of lending decisions |
+| `05_threshold_analysis.R` | Approval-rate simulations and comparison of lending decisions |
 | `06_figures_and_tables.R` | Generation of research figures and summary tables |
 
 ## Execution Order
